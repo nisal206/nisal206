@@ -1,6 +1,6 @@
-﻿# *Hy there, I'm Uditha Vithanage*
+﻿# *Hi there, I'm Nisal Rukshan*
 
-Welcome to my GitHub! I am a passionate developer specializing in *web applications, **modern user interfaces, and **efficient backends*. Dive into my projects and explore my skills and achievements.
+Welcome to my GitHub! 
 
 ---
 
@@ -11,8 +11,8 @@ Welcome to my GitHub! I am a passionate developer specializing in *web applicati
 
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=udithavithanage&label=Profile%20Views&color=0e75b6&style=flat" alt="uditha" />&nbsp;
-    <img alt="Stars" src="https://img.shields.io/github/stars/udithavithanage?style=flat-square&label=Stars&labelColor=343b41"/>
+    <img src="https://komarev.com/ghpvc/?username=nisal206&label=Profile%20Views&color=0e75b6&style=flat" alt="nisal" />&nbsp;
+    <img alt="Stars" src="https://img.shields.io/github/stars/nisal206?style=flat-square&label=Stars&labelColor=343b41"/>
 </p>
 
 ## 🎥 *Portfolio Showcase*
