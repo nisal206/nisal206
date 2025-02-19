@@ -35,7 +35,7 @@ Welcome to my GitHub!
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=udithavithanage&show_icons=true&locale=en&layout=compact&theme=dark"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=nisal206&show_icons=true&locale=en&layout=compact&theme=dark"/>
   
   </td>
 </tr>
@@ -71,15 +71,6 @@ Welcome to my GitHub!
 
 - 🎟 A real-time ticket pool management system built with *Node.js* and *Express.js*.
 
-### 3️⃣ *Chat Application*
-
-- 💬 A real-time chat platform featuring:
-  - Time-stamped messages
-  - Categorization of sent/received messages
-  - Additional options via message icons
-- Built using *WebSockets, **React, and **Node.js*.
-
----
 
 ## 🌐 *Get Involved*
 
@@ -90,10 +81,10 @@ Contributions are welcome! Explore, fork, and improve my projects.
 
 ## 📫 *Contact Me*
 
-- 📧 *Email*: [udithavithanage358@gmail.com](mailto:udithavithanage358@gmail.com)
-- 📞 *Phone*: 071 350 66 55
-- 💼 *LinkedIn*: [Uditha Vithanage](https://www.linkedin.com/in/uditha-vithanage-06589631b)
-- 🌟 *GitHub*: [Uditha Vithanage](https://github.com/udithavithanage)
+- 📧 *Email*: [nisal.20230206@iit.ac.lk](mailto:udithavithanage358@gmail.com)
+- 📞 *Phone*: 071 405 67 29
+- 💼 *LinkedIn*: [Nisal Rukshan](https://www.linkedin.com/in/nisal-rukshan-4582402b3/)
+- 🌟 *GitHub*: [Nisal Rukshan](https://github.com/nisal206)
 
 ---
 
