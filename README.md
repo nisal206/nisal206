@@ -30,7 +30,7 @@ Welcome to my GitHub!
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=udithavithanage&show_icons=true&locale=en&theme=dark" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=nisal206&show_icons=true&locale=en&theme=dark" />
   <br></br>
 </td>
 <td width="50%" align="center">
