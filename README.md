@@ -17,14 +17,14 @@ Welcome to my GitHub!
 
 ## 🎥 *Portfolio Showcase*
 
-### 🌐 [Live Portfolio]//(https://udithavithanage.vercel.app/)//
+### 🌐 [Live Portfolio]
 
 🚀 Check out my portfolio in action! Below is a preview of some of my work:
 
 ---
 
 <h3 align="center">My Statistics:</h3>
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=udithavithanage&bg_color=121112&color=f4f0f4&line=3ac1cb&point=1978d2&area=true&hide_border=true" alt="uditha" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=nisal206&bg_color=121112&color=f4f0f4&line=3ac1cb&point=1978d2&area=true&hide_border=true" alt="nisal" />
 <p align="center">
 <table align="center" style="background-color: black;">
 <tr border="none">
