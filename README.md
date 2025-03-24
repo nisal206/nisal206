@@ -17,7 +17,7 @@ Welcome to my GitHub!
 
 ## 🎥 *Portfolio Showcase*
 
-### 🌐 [Live Portfolio][https://nisal206.github.io/Portfolio/]
+### 🌐 [Live Portfolio](https://nisal206.github.io/Portfolio/)
 
 🚀 Check out my portfolio in action! Below is a preview of some of my work:
 
